@@ -1,0 +1,1 @@
+pyinstaller --hidden-import pyinput --onefile Game.py
